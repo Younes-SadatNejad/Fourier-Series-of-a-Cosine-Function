@@ -1,4 +1,4 @@
-# Fourier-Series-of-a-Cosine-Function (Two Spirals)
+# Fourier Series of a Cosine Function (Two Spirals)
 This GUI is part of Signals & Systems I - developed at Ryerson University by Soosan Beheshti and Younes Sadat-Nejad.
 For more information about the course, visit:
 https://www.ee.ryerson.ca/~courses/ss1/
